@@ -13,7 +13,7 @@ Below you can find resources for poster presentations and talks I've given in th
 
 * _O efeito do enriquecimento ambiental precoce no desenvolvimento dos reflexos neurológicos e no dano tecidual em estriado e córtex cerebral de ratos submetidos à hipóxia isquemia neonatal_ - Symposium for Scientific Initiation (SIC), Federal University of Rio Grande do Sul, Brazil (2014). ([poster](/assets/bibliography/sic-poster.pdf), [report](/assets/bibliography/sic-report.pdf))
 
-* _Involvement of adenosine and guanosine nucleosides in cellular signaling involved in trichomoniasis pathogenesis_ - XXXV Annual Meeting of the Brazilian Society of Protozoology, Caxambu, Brazil (2019). ([poster](/assets/bibliography/caxambu-poster.pdf), [abstract](/assets/bibliography/caxambu-report.pdf))
+* _Involvement of adenosine and guanosine nucleosides in cellular signaling involved in trichomoniasis pathogenesis_ - XXXV Annual Meeting of the Brazilian Society of Protozoology, Caxambu, Brazil (2019). ([poster](/assets/bibliography/caxambu-poster.pdf), [abstract](/assets/bibliography/caxambu-abstract.pdf))
 
 * _Efeito da restrição de soro na atividade enzimática de ecto-nucleotidases de Trichomonas vaginalis_ - V Congress of the Brazilian Association of Pharmaceutical Sciences, online (2020). ([video](https://youtu.be/Ma8jVpjxBvo), [abstract](/assets/bibliography/abcf-abstract.pdf), [slides](/assets/bibliography/abcf-slides.pdf))
 
